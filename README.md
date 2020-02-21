@@ -1,7 +1,7 @@
 # Fuzzy Telegram
 *A simple vanilla PHP web application displaying random quote of the day.*
 
-
+<pre>
 useful commands
 #composer
 php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
@@ -30,5 +30,6 @@ php composer.phar phinx migrate
 
 #run unit test
 php composer.phar test
+</pre>
 
 
